@@ -63,6 +63,7 @@ footer {
 .location-images {
     height: 50px;
     width: 50px;
+    border-radius: 20%;
 }
 
 .image {
@@ -70,6 +71,7 @@ footer {
     margin: 5px;
     width: auto;
     float: left;
+    border-radius: 5%;
 }
 
 .banner-image {
